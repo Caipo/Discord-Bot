@@ -1,11 +1,11 @@
 import discord
 import BestGirl
 from os import getenv
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 
 def main():
-    load_dotenv()
+    #load_dotenv()
     TOKEN = getenv('DISCORD_TOKEN')
     client = discord.Client()
 
