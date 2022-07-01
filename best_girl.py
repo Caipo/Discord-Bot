@@ -42,7 +42,7 @@ def get_image(name):
 
 async def poll(message):
     # Gives us an updated list
-    if message.channel.name == "animemes" and message.content == "who is bestgirl":
+    if message.channel.name == "bestgirl" and message.content == "who is bestgirl":
 
         cursor.execute("use bestgirl")
         cursor.execute("select * from anime_girls order by elo desc;")
@@ -58,7 +58,7 @@ async def poll(message):
 
     # Block To Rate Anima Girls
     if (
-            message.channel.name == "animemes" and message.author.id == 309512449315307530 and message.content == "bestgirl"):
+            message.channel.name == "bestgirl" and message.author.id == 309512449315307530 and message.content == "bestgirl"):
         count = 0
 
         # Infinite many polls
