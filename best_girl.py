@@ -37,8 +37,7 @@ def get_image(name):
         + str(picked)
         + "\";"
     )
-    print( "asdf " , urls[picked][0] )
-    return urls[picked][0]
+    return urls[picked][1]
 
 
 async def poll(message):
