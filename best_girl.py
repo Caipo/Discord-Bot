@@ -22,7 +22,7 @@ for i in list(data.keys()):
 def get_image(name):
     global cursor
 
-    cursor.execute(f"select * from links where name = \'{name}\' ordered by number_picked; ")
+    cursor.execute(f"select * from links where name = \'{name}\' order by number_picked; ")
 
     urls = {i[0]: i[1::] for i in cursor}
 
