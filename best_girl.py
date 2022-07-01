@@ -34,7 +34,7 @@ def get_image(name):
 
     cursor.execute(
         "update links set number_picked = number_picked + 1 where ID = \""
-        +  picked
+        + str(picked)
         + "\";"
     )
 
