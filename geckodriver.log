@@ -1553,3 +1553,406 @@ JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967d
 JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
 JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
 JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 4407 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d1ad06397502011fcbd4.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d1ad06397502011fcbd4.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gist.github.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gist.github.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://github.com"
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d1ad06397502011fcbd4.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d1ad06397502011fcbd4.js, line 1: unreachable code after return statement
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656638693979	Marionette	INFO	Stopped listening on port 34863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656638695556	Marionette	INFO	Stopped listening on port 43025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656653081506	geckodriver	INFO	Listening on 127.0.0.1:53335
+1656653082068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "41769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileplL80b"
+
+(firefox:23801): Gtk-WARNING **: 22:24:42.126: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656653082903	Marionette	INFO	Marionette enabled
+1656653082907	Marionette	INFO	Listening on port 35863
+WebDriver BiDi listening on ws://localhost:41769
+Read port: 35863
+1656653083084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileplL80b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41769/devtools/browser/619b03a1-b30e-4d97-bb85-6ab92c946c20
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656653089797	Marionette	INFO	Stopped listening on port 35863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656653252497	geckodriver	INFO	Listening on 127.0.0.1:36681
+1656653253064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "39017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekktDEJ"
+
+(firefox:24361): Gtk-WARNING **: 22:27:33.110: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656653253931	Marionette	INFO	Marionette enabled
+1656653253936	Marionette	INFO	Listening on port 37905
+WebDriver BiDi listening on ws://localhost:39017
+Read port: 37905
+1656653254108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekktDEJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39017/devtools/browser/fb830810-eaf0-46ee-8b68-14eae3e15022
+1656653321110	geckodriver	INFO	Listening on 127.0.0.1:54825
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656653372242	geckodriver	INFO	Listening on 127.0.0.1:47525
+1656653372811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "41253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevBGWJa"
+
+(firefox:24850): Gtk-WARNING **: 22:29:32.865: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656653373580	Marionette	INFO	Marionette enabled
+1656653373587	Marionette	INFO	Listening on port 39775
+WebDriver BiDi listening on ws://localhost:41253
+Read port: 39775
+1656653373763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevBGWJa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41253/devtools/browser/a55597f0-2f83-4f66-a035-c0a128128c05
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656653428306	geckodriver	INFO	Listening on 127.0.0.1:49253
+1656653428392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "41649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLtnzju"
+
+(firefox:25224): Gtk-WARNING **: 22:30:28.440: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656653429302	Marionette	INFO	Marionette enabled
+1656653429308	Marionette	INFO	Listening on port 45079
+WebDriver BiDi listening on ws://localhost:41649
+Read port: 45079
+1656653429475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtnzju/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41649/devtools/browser/01c0605c-f206-4df5-89f7-cf7b998ea16e
+JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
+JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
+1656654490551	geckodriver	INFO	Listening on 127.0.0.1:46967
+1656654491110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "58559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHgQlLk"
+
+(firefox:26590): Gtk-WARNING **: 22:48:11.155: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656654491876	Marionette	INFO	Marionette enabled
+1656654491881	Marionette	INFO	Listening on port 39919
+WebDriver BiDi listening on ws://localhost:58559
+Read port: 39919
+1656654492058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHgQlLk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58559/devtools/browser/1a2b73df-af57-4b5b-8d7d-bd832c160f9f
+1656654514626	geckodriver	INFO	Listening on 127.0.0.1:52619
+1656654515177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "42163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJVBoxs"
+
+(firefox:28383): Gtk-WARNING **: 22:48:35.223: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656654515935	Marionette	INFO	Marionette enabled
+1656654515943	Marionette	INFO	Listening on port 38509
+WebDriver BiDi listening on ws://localhost:42163
+Read port: 38509
+1656654516108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJVBoxs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42163/devtools/browser/00e17f36-bc74-4b2c-8d2d-e326286064e6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656654527453	Marionette	INFO	Stopped listening on port 38509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656654530017	Marionette	INFO	Stopped listening on port 45079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656654531284	Marionette	INFO	Stopped listening on port 39919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656655719791	geckodriver	INFO	Listening on 127.0.0.1:47311
+1656655720342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "54435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQY24OF"
+
+(firefox:29709): Gtk-WARNING **: 23:08:40.388: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656655721077	Marionette	INFO	Marionette enabled
+1656655721083	Marionette	INFO	Listening on port 33505
+WebDriver BiDi listening on ws://localhost:54435
+Read port: 33505
+1656655721250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQY24OF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54435/devtools/browser/5bbcb7df-2c8e-4940-ae0d-54fcaf30df15
+1656655741366	geckodriver	INFO	Listening on 127.0.0.1:42517
+1656655741444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "39813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyEyDun"
+
+(firefox:30064): Gtk-WARNING **: 23:09:01.490: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656655742232	Marionette	INFO	Marionette enabled
+1656655742238	Marionette	INFO	Listening on port 40737
+Read port: 40737
+WebDriver BiDi listening on ws://localhost:39813
+1656655742399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyEyDun/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39813/devtools/browser/e5573b84-786d-429e-b041-18592b75fae4
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1656655758416	geckodriver	INFO	Listening on 127.0.0.1:38311
+1656655758497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "36391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuQPmaH"
+
+(firefox:30440): Gtk-WARNING **: 23:09:18.537: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656655759342	Marionette	INFO	Marionette enabled
+1656655759349	Marionette	INFO	Listening on port 45905
+WebDriver BiDi listening on ws://localhost:36391
+Read port: 45905
+1656655759538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuQPmaH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36391/devtools/browser/002f4826-8a86-4f2e-9450-77f103e24d63
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656655770161	Marionette	INFO	Stopped listening on port 45905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656655772229	Marionette	INFO	Stopped listening on port 33505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656655779478	geckodriver	INFO	Listening on 127.0.0.1:48491
+1656655779554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "54507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSxpEWF"
+
+(firefox:30827): Gtk-WARNING **: 23:09:39.601: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656655780290	Marionette	INFO	Marionette enabled
+1656655780297	Marionette	INFO	Listening on port 44755
+WebDriver BiDi listening on ws://localhost:54507
+Read port: 44755
+1656655780484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSxpEWF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54507/devtools/browser/b7103ce3-fe4e-447c-81d5-d323f97d3be4
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656655794259	Marionette	INFO	Stopped listening on port 44755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656656162514	geckodriver	INFO	Listening on 127.0.0.1:37175
+1656656162563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "42247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDsNcnX"
+
+(firefox:31302): Gtk-WARNING **: 23:16:02.593: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656656163059	Marionette	INFO	Marionette enabled
+1656656163064	Marionette	INFO	Listening on port 36197
+Read port: 
+1656656163064	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://localhost:42247
+Read port: 36197
+1656656163305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDsNcnX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42247/devtools/browser/621ef0db-6ba3-4239-96c9-0f633e49c226
+1656656815103	geckodriver	INFO	Listening on 127.0.0.1:52559
+1656656815654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "33659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefuCwTv"
+
+(firefox:31906): Gtk-WARNING **: 23:26:55.686: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656656816165	Marionette	INFO	Marionette enabled
+1656656816168	Marionette	INFO	Listening on port 39247
+WebDriver BiDi listening on ws://localhost:33659
+Read port: 39247
+1656656816393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefuCwTv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33659/devtools/browser/15d80d42-887c-4af8-a914-c06f06977faa
+1656656827670	geckodriver	INFO	Listening on 127.0.0.1:49275
+1656656828223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "50195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepOpqyM"
+
+(firefox:32232): Gtk-WARNING **: 23:27:08.253: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656656828725	Marionette	INFO	Marionette enabled
+1656656828728	Marionette	INFO	Listening on port 46781
+WebDriver BiDi listening on ws://localhost:50195
+Read port: 46781
+1656656828958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepOpqyM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50195/devtools/browser/e6a9e870-1ae8-4ac7-845c-03b4be2c8744
+1656656845611	geckodriver	INFO	Listening on 127.0.0.1:42777
+1656656846160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "48051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile55VHVt"
+
+(firefox:32584): Gtk-WARNING **: 23:27:26.192: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656656846653	Marionette	INFO	Marionette enabled
+1656656846657	Marionette	INFO	Listening on port 34785
+Read port: 34785
+WebDriver BiDi listening on ws://localhost:48051
+1656656846757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile55VHVt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48051/devtools/browser/604ab22c-e47a-42aa-9165-cdd1ca1939fa
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 3519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 6277 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 1089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/278772303175443460/index.html, line 280: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/sadbundle/278772303175443460/index.html, line 280: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 1351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://anilist.co/js/chunk-vendors.8e8193a7.js, line 29: Script terminated by timeout at:
+x@https://anilist.co/js/chunk-vendors.8e8193a7.js:29:2893
+render@https://anilist.co/js/chunk-vendors.8e8193a7.js:29:4153
+bn/t.prototype._render@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:23706
+r@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:27787
+2b0e/</nr.prototype.get@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:30645
+2b0e/</nr.prototype.run@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:31378
+Zn@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:29585
+pe/<@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:12740
+le@https://anilist.co/js/chunk-vendors.8e8193a7.js:17:12136
+
+1656657512855	geckodriver	INFO	Listening on 127.0.0.1:45835
+1656657513408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "60107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAlU3MR"
+
+(firefox:33423): Gtk-WARNING **: 23:38:33.442: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656657514028	Marionette	INFO	Marionette enabled
+1656657514032	Marionette	INFO	Listening on port 39951
+WebDriver BiDi listening on ws://localhost:60107
+Read port: 39951
+1656657514158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAlU3MR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60107/devtools/browser/ea2a6a30-b2ef-40d9-a163-f54acd55b9b2
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657519757	Marionette	INFO	Stopped listening on port 39951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656657524525	geckodriver	INFO	Listening on 127.0.0.1:57131
+1656657525080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "40465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHu3tyr"
+
+(firefox:33793): Gtk-WARNING **: 23:38:45.113: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656657525716	Marionette	INFO	Marionette enabled
+1656657525720	Marionette	INFO	Listening on port 36549
+WebDriver BiDi listening on ws://localhost:40465
+Read port: 36549
+1656657525891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHu3tyr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40465/devtools/browser/ad2afe80-23ab-4fc8-90b1-56dcafeb66fc
+JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657573554	Marionette	INFO	Stopped listening on port 36549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657600541	Marionette	INFO	Stopped listening on port 46781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656657629446	geckodriver	INFO	Listening on 127.0.0.1:43805
+1656657630000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "41723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZfprgw"
+
+(firefox:34324): Gtk-WARNING **: 23:40:30.035: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656657630631	Marionette	INFO	Marionette enabled
+1656657630636	Marionette	INFO	Listening on port 41713
+WebDriver BiDi listening on ws://localhost:41723
+Read port: 41713
+1656657630766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZfprgw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657632012	Marionette	INFO	Stopped listening on port 41713
+1656657632022	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657633269	Marionette	INFO	Stopped listening on port 39247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657638020	Marionette	INFO	Stopped listening on port 36197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657653087	Marionette	INFO	Stopped listening on port 34785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656657658748	geckodriver	INFO	Listening on 127.0.0.1:57253
+1656657658803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "40721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYzutAi"
+
+(firefox:34629): Gtk-WARNING **: 23:40:58.847: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656657659492	Marionette	INFO	Marionette enabled
+1656657659497	Marionette	INFO	Listening on port 43265
+WebDriver BiDi listening on ws://localhost:40721
+Read port: 43265
+1656657659633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYzutAi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40721/devtools/browser/e0c1fe94-88a5-48dc-ae3c-e3631306b79c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656657697171	Marionette	INFO	Stopped listening on port 43265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656657930557	geckodriver	INFO	Listening on 127.0.0.1:43911
+1656657980840	geckodriver	INFO	Listening on 127.0.0.1:48495
+1656657981403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 " "--remote-debugging-port" "50959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledF7NAT"
+
+(firefox:35130): Gtk-WARNING **: 23:46:21.438: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1656657982036	Marionette	INFO	Marionette enabled
+1656657982040	Marionette	INFO	Listening on port 39997
+WebDriver BiDi listening on ws://localhost:50959
+Read port: 39997
+1656657982163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledF7NAT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50959/devtools/browser/b8152620-1564-4776-822e-cb7accf99f05
+JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
+JavaScript error: https://tenor.com/assets/dist/main.min.js?a2efa9407d64c26c967daa239219046d, line 2: TypeError: e.replace is not a function
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1656658320823	Marionette	INFO	Stopped listening on port 39997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

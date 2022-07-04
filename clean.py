@@ -1,21 +1,19 @@
-from urllib.request import Request, urlopen, urlretrieve
 from selenium import webdriver
-from bs4 import BeautifulSoup
 import mysql.connector
-import time
-from selenium.webdriver.common.keys import Keys
+from os import getcwd
 
 #SQL shit
-db = mysql.connector.connect(host="localhost",user="root",password="Starcraft2")
+
+
+db = mysql.connector.connect(host="192.168.1.122",user="caipo",password="password")
 cursor = db.cursor(buffered = True)
-cursor.execute("use best_girl;")
+cursor.execute("use bestgirl;")
 
-
-#Selenium Shit
-opts = webdriver.ChromeOptions()
-opts.add_argument("user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 ")
-driver = webdriver.Chrome(executable_path = "C:\\Users\\Caipo\\Desktop\\chromedriver.exe" , options = opts)
-
+# Selnium set up for tennor
+opts = webdriver.FirefoxOptions()
+opts.add_argument(
+"user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 ")
+driver = webdriver.Firefox(executable_path= getcwd() + "/geckodriver", options=opts)
 
 def open_images(name):
     global cursor, driver 
@@ -34,7 +32,7 @@ def open_images(name):
         
         
 cursor.execute("select * from anime_girls;")
-names = { i[0] : i[1::] for i in cursor}
+names = {"Llenn"}
 
 
 for i in names :

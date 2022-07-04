@@ -27,9 +27,8 @@ def main():
 
     test = False
     contenders = [
-        {"name": "Sinon", "series": "Sword Art Online", "plot": "small", "google": False, "tennor": True},
-        {"name": "Faye", "series": "Cowboy Bebop", "plot": "Large", "google": False, "tennor": True},
-        {"name": "Edward", "series": "Cowboy Bebop", "plot": "DFC", "google": False, "tennor": True}
+        {"name": "Llenn", "series": "Sword Art Onling GGO", "plot": "illegal", "google": False, "tennor": True}
+
     ]
 
     for contend in contenders:
@@ -128,4 +127,7 @@ def google_scrape(name, test):
 
 
 if __name__ == "__main__":
-    main()
+#    main()
+    print("blap")
+    a =  {"name" : "Momoko", "series": "Sword Art Online", "plot": "Large", "google": False, "tennor": False}
+    google_scrape( a["name"], test = False)

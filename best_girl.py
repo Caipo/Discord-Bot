@@ -92,7 +92,6 @@ async def poll(message):
             m2 = await message.channel.send(get_image(p2))
             await m2.add_reaction(emoji)
 
-            timeout = time.time() + 60 * 60 * 12
             # vote Loop
             while True:
                 votes = {i: "" for i in ["Capio", "SquidCat", "Slifyre", "Lary", "Radscorpion", "other"]}
@@ -128,10 +127,6 @@ async def poll(message):
                         "update anime_girls set number_wins = number_wins + 1 where contender_name = \"" + p2 + "\";")
                     await message.channel.send(p2 + " wins ")
                     flag = True
-
-                if time.time() > timeout:
-                    message.channel.send("Time limit exceed and the round will be nullifyed")
-                    break
 
                 if flag:
                     p1_votes = list()
